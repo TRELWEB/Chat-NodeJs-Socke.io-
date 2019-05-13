@@ -1,0 +1,12 @@
+{
+  "name": "chatSocketIO",
+  "version": "1.0.0",
+  "description": "Proyecto Personal Chat con Node Js y Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jonatan Montesinos Macias",
+  "license": "ISC"
+}
